@@ -1,0 +1,1 @@
+This folder contains the three notebooks for this analysis. There is a file which creates numpy arrays from tissue sample images, a one-dimensional classification analysis using various machine learning algorithms such as regression techniques and random forest classifiers, and a notebook with two-dimensional convolutional neural network tests. 
